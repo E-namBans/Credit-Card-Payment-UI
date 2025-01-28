@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(233, 232, 232);
+  
+}
+
+.container{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* height: 100vh; */
+    border: 1px solid ;
+
+}
+
+
+
+
+/* .credit_card_form{
+    width: 40vw;
+    height: 50vh;
+ 
+}
+
+
+.glass{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.993), rgb(146, 22, 22)); 
+border-radius: 20px;
+border: 1px solid rgba(255, 255, 255, 0);
+box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.274);
+backdrop-filter: blur(10px);
+-webkit-backdrop-filter: blur(10px);
+
+}  b */
